@@ -1,1 +1,1 @@
-P.S. Iy's my first game ever, don't take it seriously.
+P.S. It's my first game, don't take it seriously.
