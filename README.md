@@ -1,1 +1,4 @@
-P.S. It's my first game, don't take it seriously.
+# Первая игра змейка
+
+Разработана во время 1 курса яндекс лицея
+
